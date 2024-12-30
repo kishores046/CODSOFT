@@ -1,0 +1,7 @@
+
+Q1:What is the capital of Spain?,1)Berlin,2)Madrid,3)Paris,4)Rome,2
+Q2:Which planet is known as the Red Planet?,1)Earth,2)Mars,3)Jupiter,4)Saturn,2
+Q3:Who wrote Novel The Road?,1)Willian Faulkner,2)Agastha Christie,3)Cormac Mc Carthy,4)Jane Austen,3
+Q4:How many bones do sharks have?,1)0,2)25,3)64,4)120,1
+Q5:Which is the first organism to grow back after a fire?,1)Moss,2)Fern,3)Lichen,4)Algae,1
+Q6:How mainy players are there in an kabaddi team?,1)7,2)8,3)9,4)11,1
