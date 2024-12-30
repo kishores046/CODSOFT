@@ -6,7 +6,7 @@ import java.util.concurrent.*;
 
 public class MultiQuestionQuiz {
     private static final int TIME_LIMIT = 10; // Time limit in seconds for each question 
-    //Note it is constant we can modify after its declaration
+    //Note it is constant we cannot modify after its declaration
     private static int timeRemaining = TIME_LIMIT;//Time remaining for each question
     private static ScheduledExecutorService executorService;//Creating a ScheduledExecutorService object
     static int score=0;//Score of the user
